@@ -147,6 +147,7 @@ tie it back to ground. The other side goes to a pin on the wire harness connecto
 
 ## Make the blank button position functional
 
+__TODO: Add images and steps for cutting down sides of button so it can slide__
 
 
 When you press the stock buttons on the crash pad, you're actually depressing the
